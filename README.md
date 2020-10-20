@@ -10,7 +10,7 @@ Currently living in Piliyandala, Sri Lanka.
 - 👯 I’m looking to collaborate with other open source projects
 - 💬 Ask me anything about IT field. If I know something I will tell you  
 - 😄 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact:: I love to listen music and sing. [Watch my video]()
+- ⚡ Fun fact:: I love to listen music and sing. [Watch my video](https://youtu.be/hLtEzB2Qk34)
 -->
 
 ### Follow me on:
