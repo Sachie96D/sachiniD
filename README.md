@@ -43,7 +43,7 @@ Currently living in Piliyandala, Sri Lanka.
 <!-- update these accordingly -->
 
 [1]: http://www.twitter.com/carlsednaoui
-[2]: http://www.facebook.com/sednaoui
+[2]: http://www.facebook.com/Sachini Dilanka
 [3]: https://plus.google.com/+CarlSednaoui
 [4]: http://carlsed.tumblr.com
 [5]: http://dribbble.com/carlsednaoui
