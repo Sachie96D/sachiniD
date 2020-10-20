@@ -1,7 +1,8 @@
-### Hi there, I'm Sachini 👋
+### Hi there, I'm Sachini Dilanka 👋
 -Information Systems Undergraduate in Sabaragamuwa Universiry of Sri Lanka.
 -Novice Business Analysis practitioner. 
 -Studied Combined Mathematics in Advanced Level.
+-Currently living in Piliyandala, Sri Lanka.
 
 ### I'm a student in IT Field !!
 
