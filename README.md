@@ -26,7 +26,7 @@ Currently living in Piliyandala, Sri Lanka.
 
 
 
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)[Facebook]
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 
 
 
