@@ -16,7 +16,7 @@ Currently living in Piliyandala, Sri Lanka.
 
 <img align="left" alt="codeSTACKr | javascript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="codeSTACKr | html" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="codeSTACKr | javascript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visualstudiocode/visualstudiocode.png" />
+<img align="left" alt="codeSTACKr | javascript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Visual-Studio-Code/Visual-Studio-Code.png" />
 
 ### Follow me on:
 
