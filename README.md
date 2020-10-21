@@ -13,7 +13,10 @@ Currently living in Piliyandala, Sri Lanka.
 - ⚡ Fun fact:: I love to listen music and sing. [Watch my video](https://youtu.be/hLtEzB2Qk34)
 -->
 ### Languages and Tools
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
+<img align="left" alt="codeSTACKr | javascript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="codeSTACKr | html" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="codeSTACKr | javascript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visualstudiocode/visualstudiocode.png" />
 
 ### Follow me on:
 
