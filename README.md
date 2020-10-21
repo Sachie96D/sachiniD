@@ -28,7 +28,7 @@ Currently living in Piliyandala, Sri Lanka.
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.sachiniD.vercel.app/api?username=sachiniD&show_icons=true&hide_border=true" />
 
 </details>
 
